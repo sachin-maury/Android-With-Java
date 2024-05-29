@@ -1,3 +1,5 @@
+package day18;
+import Animal;
 
 class Animal{
     public void eat(){

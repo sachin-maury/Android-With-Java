@@ -1,5 +1,6 @@
+package day18;
 
-    class Animal{
+class Animal{
         public void eat(){
             System.out.println("The cow is eating :");
         } 

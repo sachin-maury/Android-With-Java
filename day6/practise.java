@@ -1,3 +1,6 @@
+import day18.Animal;
+import day18.Dog;
+
 class Animal{
   public void eat(){
     System.out.println("Animal is eating :");
