@@ -5,3 +5,4 @@ public class practice {
         System.out.println(a[4]);
     }
 }
+//kjsdhj
