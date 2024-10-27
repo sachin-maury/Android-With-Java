@@ -12,7 +12,7 @@ public class practice3 {
       int var2 = var0 + var1;
       return var2;
    }
-
+///
    public static void main(String[] var0) {
       System.out.println("Enter your number : ");
       Scanner var1 = new Scanner(System.in);
